@@ -5,7 +5,7 @@ The article is rather amateurish, but then again I was 18 at the time as I had w
 
 The article was at the time written because I was excited (still am) at the prospect of an Apple iOS emulator. Despite being a proud Android convert since about 2011, I did miss some of the apps and games I used to play on my iPhone and would have gladly supported such a project in any way I can. Sadly the project was closed down after the developer consulted lawyers. Much like The Next iOS, the iEmu site is no longer available but the developer still owns the domain.
 
-I license this article under the [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), feel free to share it around.
+This article is licensed under the [Creative Commons Share-Alike (CC-BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/), feel free to share it around.
 
 <hr/>
 
