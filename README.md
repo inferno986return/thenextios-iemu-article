@@ -9,6 +9,8 @@ The article was at the time written because I was excited (still am) at the pros
 
 ## iEmu: Run iOS and its apps on Android, Windows, Linux and even iOS itself!
 
+<img src="https://github.com/inferno986return/thenextios-iemu-article/blob/master/iemu.jpg"/>
+
 After doing some harmless internet browsing in my favourite web browser Mozilla Firefox, I came across an interesting idea by a hacker/developer Chris Wade.
  
 Wade who crafted one of the first ever iOS jailbreaks (we're talking iOS 1 or 2 here, back when the springboard was black) has finally decided to take the real plunge and attempt to create a fully functional, highly compatible iOS emulator based on QEMU for many popular OS's out there, including Android (though they haven't specified whether it will be for phones, tablets or both).
@@ -31,6 +33,8 @@ In closing, all I can say is I support the project (not financially, but by conc
 planned it could be seeing me sell my iPhone and just have a rooted Android phone running a emulated, jailbroken iOS. Which is quite a painful concept for Apple. We could also see an increase in iOS app development, for those who choose to code in Objective-C without a Mac or iOS device to develop with.
  
 All in all, it's something to look forward to! :-)
+
+<img src="https://github.com/inferno986return/thenextios-iemu-article/blob/master/wip.jpeg"/>
  
 
 This blog was written primarily using ShapeWriter Pro for iPhone and modified using Microsoft Word 2007 and OpenOffice.org Writer V3.3.0. Special thanks to Josh Parker for letting me host my iOS related blogs on this site (shame he won’t do Android too).
