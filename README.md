@@ -34,7 +34,7 @@ planned it could be seeing me sell my iPhone and just have a rooted Android phon
  
 All in all, it's something to look forward to! :-)
 
-<img src="https://github.com/inferno986return/thenextios-iemu-article/blob/master/wip.jpeg"/>
+<img src="https://github.com/inferno986return/thenextios-iemu-article/blob/master/wip.png"/>
  
 
 This blog was written primarily using ShapeWriter Pro for iPhone and modified using Microsoft Word 2007 and OpenOffice.org Writer V3.3.0. Special thanks to Josh Parker for letting me host my iOS related blogs on this site (shame he won’t do Android too).
